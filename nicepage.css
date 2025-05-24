@@ -44821,6 +44821,10 @@ a.u-link.u-text-hover-grey-90:hover {
     width: auto;
     margin-right: -12px;
   }
+
+  .u-header .u-image-5 {
+    margin-right: 74px;
+  }
 }
 @media (max-width: 767px) {
   .u-header .u-image-1 {
@@ -44852,12 +44856,12 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-image-5 {
-    margin-right: 67px;
+    margin-right: 76px;
   }
 
   .u-header .u-nav-2 {
-    font-size: 1.5rem;
-    margin-bottom: -25px;
+    margin-top: 587px;
+    margin-left: 49px;
   }
 }
 .u-header .u-image-3, .u-header .u-image-3:before, .u-header .u-image-3 > .u-container-layout:before {
